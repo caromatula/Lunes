@@ -10,7 +10,7 @@ La ciencia abierta tiene 4 pilares
     1. Primero
     1. Segundo
     3. Tercero
-
+    5. Cuarto
 * Datos abiertos
 
 * Sofware abiertos
@@ -22,3 +22,5 @@ $100*log(X2-X1)/T2-t1$
 $$100*log(x2-x1)/T2-t1$$
 
 $$x^2$$
+
+*cambio*

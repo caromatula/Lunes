@@ -1,3 +1,14 @@
+#' Calculate shannon index
+#'
+#' @param species vector of species abundances
+#'
+#' @return shannoon index
+#' @export
+#'
+#' @examples 
+#' datos<-c(10, 200, 1000, 50)
+#' shannon(datos)
+#' 
 shannon <- function(species)
 {
   p<-species/sum(species) #calcula proporcion
@@ -7,3 +18,8 @@ shannon <- function(species)
   return(s)
 
 }  
+
+richness<- function(species) 
+  {
+  
+}

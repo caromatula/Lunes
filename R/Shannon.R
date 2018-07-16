@@ -5,4 +5,5 @@ shannon <- function(species)
   s<- -sum(p* log(p))  #calcula shannon
   
   return(s)
-}
+
+}  
